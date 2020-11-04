@@ -45,3 +45,10 @@ You should link your app with
 * libz.dylib
 * libbz2.dylib
 * libiconv.dylib
+
+## System Frameworks
+
+* CoreMedia.framework
+* VideoToolbox.framework
+* AudioToolbox.framework
+
